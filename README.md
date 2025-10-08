@@ -1,8 +1,5 @@
 ## Hi there 👋, i'm Ivan
 
-Always passionate about the world of software development, but sometimes too lazy to do any of it. But i tried my best.
-Also do a little bit of game dev using Unity.
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivanank2004&layout=compact)
 
 <!--
